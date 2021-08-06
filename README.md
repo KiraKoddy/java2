@@ -6,6 +6,9 @@
 
 На тестирование затрачено: 1 час
 
+В результате тестирования выявлены следующие дефекты:
+* https://github.com/KiraKoddy/java2/issues/1
+
 ## Описание процесса тестирования
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
