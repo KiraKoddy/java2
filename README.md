@@ -8,9 +8,7 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 * [Некорректный статус ключа](https://github.com/KiraKoddy/java2/issues/1)
-* https://github.com/KiraKoddy/java2/issues/2
-* https://github.com/KiraKoddy/java2/issues/3
-
+* [Некорректный статус ключа](https://github.com/KiraKoddy/java2/issues/3)
 ## Описание процесса тестирования
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
