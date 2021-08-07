@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 ## В результате тестирования выявлены следующие дефекты:
-* https://github.com/KiraKoddy/java2/issues/1
+* [Некорректный статус ключа](https://github.com/KiraKoddy/java2/issues/1)
 * https://github.com/KiraKoddy/java2/issues/2
 * https://github.com/KiraKoddy/java2/issues/3
 
